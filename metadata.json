@@ -1,0 +1,6 @@
+{
+    "name": "Pablo Escobar Token",
+    "symbol": "PES",
+    "description": "PES token from Solana.",
+    "image": "https://raw.githubusercontent.com/labs-token/pe-token/refs/heads/main/pe.png"
+}
